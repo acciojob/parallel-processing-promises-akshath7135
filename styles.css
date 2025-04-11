@@ -1,1 +1,6 @@
 /*  your css code here. If applicable */
+#output img {
+    margin: 10px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+}
